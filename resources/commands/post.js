@@ -1,0 +1,1 @@
+emit('commands:new', this);

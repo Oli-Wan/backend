@@ -1,0 +1,29 @@
+{
+	"type": "Collection",
+	"properties": {
+		"date": {
+			"name": "date",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "date",
+			"order": 0
+		},
+		"data": {
+			"name": "data",
+			"type": "object",
+			"typeLabel": "object",
+			"required": false,
+			"id": "data",
+			"order": 1
+		},
+		"origin": {
+			"name": "origin",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "origin",
+			"order": 2
+		}
+	}
+}

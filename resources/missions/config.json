@@ -1,0 +1,77 @@
+{
+	"type": "Collection",
+	"properties": {
+		"createdAt": {
+			"name": "createdAt",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "createdAt",
+			"order": 0
+		},
+		"type": {
+			"name": "type",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "type",
+			"order": 1
+		},
+		"destination": {
+			"name": "destination",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "destination",
+			"order": 2
+		},
+		"responsible": {
+			"name": "responsible",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "responsible",
+			"order": 3
+		},
+		"observations": {
+			"name": "observations",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "observations",
+			"order": 4
+		},
+		"reason": {
+			"name": "reason",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "reason",
+			"order": 5
+		},
+		"caller": {
+			"name": "caller",
+			"type": "object",
+			"typeLabel": "object",
+			"required": false,
+			"id": "caller",
+			"order": 6
+		},
+		"imageURL": {
+			"name": "imageURL",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "imageURL",
+			"order": 7
+		},
+		"staff": {
+			"name": "staff",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "staff",
+			"order": 8
+		}
+	}
+}
