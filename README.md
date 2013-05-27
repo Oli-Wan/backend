@@ -1,8 +1,8 @@
 ## Deployd backend pour mobile-angular.
 
 Nécessaire au bon fonctionnement de mobile-angular.
-Pour pouvoir lancer le serveur, il faut intaller deployd. Pour ce faire, il existe des installeur sur le site de deployd (http://deployd.com/download.html), sinon on peut l'installer avec Node Package Manager.
-Une fois deployd installé, le serveur se lance en utilisant la commande dpd à la racine du projet.
+Pour pouvoir lancer le serveur, il faut intaller deployd. Pour ce faire, il existe des installeurs sur le site de deployd (http://deployd.com/download.html), sinon on peut l'installer avec Node Package Manager. Une fois deployd installé, le serveur se lance en utilisant la commande dpd à la racine du projet.
+
 
 `dpd`
 
